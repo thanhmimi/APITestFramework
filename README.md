@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/pdxcapstone/API-Test-Automation.svg?branch=master)](https://travis-ci.org/pdxcapstone/API-Test-Automation)
 # API-Test-Automation
 For testing API as basic level.
 
@@ -23,7 +22,7 @@ Run Automation
 --------------
 1. Clone repo
 
-	```git clone https://github.com/thanhmimi/API_test_automation.git```
+	```git clone https://github.com/thanhmimi/APITestFramework.git```
 2. cd into new director
 
 	```cd API_test_automation```
